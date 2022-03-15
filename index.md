@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+Welcome to MaowImpl's blog, AbstractMaow!<br>
+I will use this blog as a way to explain some interesting facts about languages I'm fond of.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+***Beware, opinions ahead!***
