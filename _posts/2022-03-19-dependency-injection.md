@@ -7,7 +7,7 @@ If you're struggling to make sense of the concept (I don't blame you, the term i
 
 ### WHAT *THE @!#%* IS IT!?
 
-<img align="right" width="400" height="300" src="https://raw.githubusercontent.com/maow-xyz/blog/main/_resources/dependency_injection/dependency-injection-graph.png">
+<img align="right" width="400" height="300" src="https://raw.githubusercontent.com/maow-xyz/blog/main/img/dependency_injection/graph.png">
 
 For a simple, one sentence definition, we'll use [James Shore's:](https://www.jamesshore.com/v2/blog/2006/dependency-injection-demystified)
 > \[...\] Dependency injection means giving an object its instance variables.
